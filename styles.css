@@ -1,0 +1,76 @@
+
+/*allgemein*/
+
+.right{
+  text-align:right;
+}
+
+.center{
+  text-align: center;
+}
+
+body{margin: 0;}
+
+
+
+/*navbar*/
+
+.logo-text{
+  font-family: 'Merriweather', serif;
+}
+
+.nav-item{
+  padding: 0px 18px;
+}
+
+.navbar-text-right{
+  color: grey;
+}
+
+.navbar-eigen{
+  background-color: #34cdeb;
+}
+
+/*dickes Bild*/
+.front-image{
+  width: 100%;
+}
+
+/*Anmeldung*/
+
+.jumboAnmeldung{
+  margin: 0;
+}
+
+
+/*footer*/
+footer{
+  background-color: #34cdeb;
+}
+
+.footer-div{
+padding-top: 20px;
+}
+.kontakt-div{
+  padding: 1% 15%;
+}
+.kontakt-h4{
+  margin-top: 10px;
+}
+
+.p-kontakt{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.leer1{
+  padding-top: 3%;
+  background-color: #34cdeb;
+}
+
+.linkAufBlau{
+  color: black;
+}
+.linkAufBlau:visited{
+  color: black;
+}
